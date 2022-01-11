@@ -1,2 +1,2 @@
 # Stack
-stack datastructure
+convert infix to postfix and prefix with stack datastructure
